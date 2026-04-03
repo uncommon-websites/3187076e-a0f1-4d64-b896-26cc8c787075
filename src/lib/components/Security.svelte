@@ -6,10 +6,10 @@
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 mb-20">
 			<div>
 				<h2 class="text-4xl md:text-5xl font-serif mb-6 leading-tight">
-					Enterprise-grade security and controls
+					Your knowledge, protected at every layer
 				</h2>
 				<p class="text-gray-400 text-lg leading-relaxed mb-8 max-w-xl">
-					Harvey meets the highest industry standards for security and compliance. We include all default controls that enterprise teams expect: SAML SSO, audit logs, IP allow-listing, data lifecycle management, and more.
+					Delphi AI is built on a foundation of rigorous security and compliance. Your intellectual property stays yours — we enforce strict voice and knowledge controls so your digital clone only speaks using your verified content, never improvising without your explicit consent.
 				</p>
 				<button class="border border-white/30 px-6 py-3 text-sm font-medium hover:bg-white/10 transition-colors duration-300">
 					More About Security

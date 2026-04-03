@@ -4,8 +4,8 @@
 			<!-- Image -->
 			<div class="relative aspect-[4/5] md:aspect-square lg:aspect-[4/5] overflow-hidden rounded-sm">
 				<img 
-					src="https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=2574&auto=format&fit=crop" 
-					alt="Rich Robbins" 
+					src="/generated/image-a-confident-approachable-male-expert-res-1775235432433-0.webp" 
+					alt="Jay Shetty" 
 					class="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-500"
 				/>
 			</div>
@@ -13,17 +13,17 @@
 			<!-- Content -->
 			<div class="flex flex-col justify-center space-y-8">
 				<blockquote class="text-3xl md:text-4xl lg:text-5xl font-serif leading-tight">
-					“What we have seen at Reed Smith with Harvey is by far the most successful firm technology adoption story I have ever been a part of.”
+					"Delphi has completely transformed how I connect with my audience. My digital clone answers questions 24/7 in my exact voice — it's like scaling myself without losing what makes me, me."
 				</blockquote>
 				
 				<div class="space-y-1">
-					<div class="font-bold text-lg">Rich Robbins</div>
-					<div class="text-gray-600 text-sm">Director of Applied Artificial Intelligence</div>
-					<div class="text-gray-600 text-sm">Reed Smith</div>
+					<div class="font-bold text-lg">Jay Shetty</div>
+					<div class="text-gray-600 text-sm">Author, Podcast Host & Purpose Coach</div>
+					<div class="text-gray-600 text-sm">On Purpose with Jay Shetty</div>
 				</div>
 
 				<div class="pt-8">
-					<span class="font-serif text-2xl font-bold tracking-tight">ReedSmith</span>
+					<span class="font-serif text-2xl font-bold tracking-tight">Jay Shetty</span>
 				</div>
 
 				<!-- Carousel Indicators -->

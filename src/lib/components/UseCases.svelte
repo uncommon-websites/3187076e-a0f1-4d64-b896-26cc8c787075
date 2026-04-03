@@ -4,7 +4,7 @@
 			<!-- Left Column -->
 			<div class="md:col-span-4 lg:col-span-3">
 				<h3 class="text-xl font-medium leading-relaxed sticky top-32">
-					The top legal teams<br />use Harvey for
+					Top experts and creators<br />use Delphi AI for
 				</h3>
 			</div>
 
@@ -12,17 +12,17 @@
 			<div class="md:col-span-8 lg:col-span-9 relative">
 				<div class="space-y-2 md:space-y-4">
 					<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-200 hover:text-gray-400 transition-colors cursor-pointer">
-						Complex Workflows
+						Audience Scaling
 					</div>
 					<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-200 hover:text-gray-400 transition-colors cursor-pointer">
-						Document Storage
+						Content Indexing
 					</div>
 					<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-200 hover:text-gray-400 transition-colors cursor-pointer">
-						Legal Research
+						24/7 Engagement
 					</div>
 					<div class="relative group">
 						<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-black cursor-pointer">
-							Deal Management
+							Expert Cloning
 						</div>
 						<div class="absolute right-0 top-1/2 -translate-y-1/2 hidden md:block opacity-0 group-hover:opacity-100 transition-opacity duration-300">
 							<!-- Button appears on hover or active state, but screenshot shows it always there for the active item? 
@@ -34,13 +34,13 @@
 						</a>
 					</div>
 					<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-200 hover:text-gray-400 transition-colors cursor-pointer">
-						Due Diligence
+						Knowledge Transfer
 					</div>
 					<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-200 hover:text-gray-400 transition-colors cursor-pointer">
-						Fund Formation
+						Coaching Automation
 					</div>
 					<div class="text-4xl md:text-5xl lg:text-6xl font-serif text-gray-200 hover:text-gray-400 transition-colors cursor-pointer">
-						Contract Analysis
+						Revenue Monetization
 					</div>
 				</div>
 			</div>

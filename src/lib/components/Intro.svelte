@@ -2,8 +2,8 @@
 	<div class="container mx-auto px-6 md:px-12">
 		<div class="max-w-4xl mb-20">
 			<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif leading-tight tracking-tight">
-				<span class="text-black">Harvey is AI designed for legal and professional services.</span>
-				<span class="text-gray-400">Advance your expertise on a secure platform that lets you focus on high-value work.</span>
+				<span class="text-black">Delphi AI is built for experts who need to scale their knowledge without cloning themselves.</span>
+				<span class="text-gray-400">Grow your reach on a secure platform that lets your digital clone handle every inquiry, 24/7.</span>
 			</h2>
 		</div>
 
